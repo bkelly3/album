@@ -1,3 +1,4 @@
 {
-    "extends": "google"
+    "extends": "standard",
+    "parser": "babel-eslint"
 }
